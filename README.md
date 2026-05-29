@@ -27,6 +27,6 @@ Welcome to my cybersecurity portfolio. I am a student at ECPI University pursuin
 
 ## Portfolio Links
 
-- GitHub Profile: https://github.com/<your-username>
-- Repository: https://github.com/<your-username>/cybersecurity-portfolio
-- GitHub Pages: https://<your-username>.github.io/cybersecurity-portfolio/
+- GitHub Profile: https://github.com/MattyBeers
+- Repository: https://github.com/MattyBeers/cybersecurity-portfolio
+- GitHub Pages: https://MattyBeers.github.io/cybersecurity-portfolio/
