@@ -1,10 +1,10 @@
 
 
-\# Computing Fundamentals
+\# ACS100
 
 \*\*Term: 202605E  
 
-\*\*Instructor 
+\*\*Instructor R.Motes
 
 \*\*Student: Matthew Beers  
 
